@@ -21,6 +21,8 @@ El sistema se divide en las siguientes capas:
 * **Farmacia.Datos:** Acceso a datos y conexión con SQL Server.
 * **Farmacia.Entidades:** Modelos de datos y estructuras del dominio.
 
+## 🏗️ Usuario: AGONZALES
+## 🏗️ Password: 40769792
 
 ## 👨‍💻 Autor
 
